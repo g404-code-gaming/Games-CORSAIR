@@ -1,0 +1,21 @@
+{
+  "format": "html-autonome",
+  "source_sha256": {
+    "index.html": "0a9d732fdb7934793805f72ce87c59baa458b8527dbbf23a5777eb52c59a194c",
+    "style.css": "39bea92fd3bbf58f167603b3197a53ebd9549936a9f2e39993fa2cb057ae7b19",
+    "app.js": "b6c6abdce8a0fc6a901eb5d9f49b6abca5e538416adaa120dea1c8eee449e9b6",
+    "levels.mjs": "e1284ecde5f10bb8ca434ad73b2e46c29894d47951ac61e83985f3899e606e18",
+    "engine.mjs": "3e2243fb830a0be7dde5adb3a7e9530cfbdeb45b41fa6b41b554d34c0ea4e690",
+    "assets/robot.svg": "e074a99e3ba5aa66827a81f207c84a96e6cf65dfe22e76d6932b920a08529222",
+    "assets/robot.png": "fa089df2acebbd463ea4a2d89a48c12a58238b48b721ae55fd744d9c9f7bdc69",
+    "assets/logo.png": "e8adad9b1b529cc8f361b2dcbd30898f2fd3e26215d23a0b4fa578304117ca91",
+    "assets/poppins-black.ttf": "d82aaaf98a9283f9a8edd24e51173337d8eaf09e25cd3d98831f8ec8461748a1",
+    "assets/poppins-OFL.txt": "6be04893d770899a015649c7aa3b582f871b272f8747a92b78b17c3e5c8b2573",
+    "assets/slogan.png": "80e8c7b60c3d6cb17d295f0ebda529abf599b1168f00d8097866cdd83543561a",
+    "theme.js": "45eacb3efd55195e1b0781558bd29d9ce0c6a0ae6c7607bfae492f917893542a"
+  },
+  "html_sha256": "c702f0e2c15f3b15586025d11ae7a70d26663e80249a41802f64da2be4ab6d5d",
+  "html_bytes": 1824045,
+  "offline_module_included": false,
+  "network_dependencies": []
+}
